@@ -1,0 +1,10 @@
+App Name and statement:
+    CurlSafe: Curly Hair Ingredient Analyzer
+
+Features:
+    camera vision api for selecting text
+    import image for selecting text
+    Search by ingredient 
+
+Color codes: 
+#f7ca28
