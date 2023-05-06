@@ -8,3 +8,16 @@ Features:
 
 Color codes: 
 #f7ca28
+
+cloud key:
+7e4b4d1f493c69b1d55669c07785a3b1d81494b4
+
+for deployment todo:
+-update security. auth needs to be better for apps
+  https://cloud.google.com/docs/authentication
+-for IAM verification, there is a seperate user auth for people using the apps
+  using REST default application default credential
+  https://cloud.google.com/vision/docs/authentication#rest
+  
+
+
