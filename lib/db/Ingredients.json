@@ -1,0 +1,234 @@
+[
+  {
+    "name": "ate",
+    "description": "sulfate"
+  },
+  {
+    "name": "sodium-laureth",
+    "description": "sulfate"
+  },
+  {
+    "name": "myreth",
+    "description": "sulfate"
+  },
+  {
+    "name": "cone",
+    "description": "silicone"
+  },
+  {
+    "name": "xane",
+    "description": "silicone"
+  },
+  {
+    "name": "behenoxy dimethicone",
+    "description": "silicones(water-soluble)"
+  },
+  {
+    "name": "peg",
+    "description": "silicones(water-soluble)"
+  },
+  {
+    "name": "ppg",
+    "description": "silicones(water-soluble)"
+  },
+  {
+    "name": "stearoxy dimethicone",
+    "description": "silicones(water-soluble)"
+  },
+  {
+    "name": "isopropyl alcohol",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "isopropanol alcohol",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "ethanol",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "ethyl alcohol",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "sd alcohol",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "sd alcohol 40",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "propanol",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "propyl alcohol",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "ipa",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "behenyl alcohol",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "cetyl alcohol",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "cetearyl alcohol",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "myristly alcohol",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "stearyl alcohol",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "lauryl alcohol",
+    "description": "short-chain-alcohol"
+  },
+  {
+    "name": "methylparaben",
+    "description": "parabens"
+  },
+  {
+    "name": "ethylparaben",
+    "description": "parabens"
+  },
+  {
+    "name": "propylparaben",
+    "description": "parabens"
+  },
+  {
+    "name": "isopropylparaben",
+    "description": "parabens"
+  },
+  {
+    "name": "butylparaben",
+    "description": "parabens"
+  },
+  {
+    "name": "isobutylparaben",
+    "description": "parabens"
+  },
+  {
+    "name": "methylene glycol",
+    "description": "formaldehyde"
+  },
+  {
+    "name": "glyoxylic acid",
+    "description": "formaldehyde"
+  },
+  {
+    "name": "potassium hydroxide",
+    "description": "soap"
+  },
+  {
+    "name": "saponification",
+    "description": "soap"
+  },
+  {
+    "name": "saponified",
+    "description": "soap"
+  },
+  {
+    "name": "saponifying",
+    "description": "soap"
+  },
+  {
+    "name": "soap",
+    "description": "soap"
+  },
+  {
+    "name": "sodium carboxylate",
+    "description": "soap"
+  },
+  {
+    "name": "sodium palm",
+    "description": "soap"
+  },
+  {
+    "name": "lanolin oil",
+    "description": "wax"
+  },
+  {
+    "name": "mineral oil",
+    "description": "wax"
+  },
+  {
+    "name": "paraffin wax",
+    "description": "wax"
+  },
+  {
+    "name": "petrolatum",
+    "description": "wax"
+  },
+  {
+    "name": "wax",
+    "description": "wax"
+  },
+  {
+    "name": "beeswax",
+    "description": "wax"
+  },
+  {
+    "name": "candelilla wax",
+    "description": "wax"
+  },
+  {
+    "name": "cera",
+    "description": "wax"
+  },
+  {
+    "name": "cire",
+    "description": "wax"
+  },
+  {
+    "name": "dodecane",
+    "description": "wax"
+  },
+  {
+    "name": "dodecene",
+    "description": "wax"
+  },
+  {
+    "name": "isododecane",
+    "description": "wax"
+  },
+  {
+    "name": "isohexad",
+    "description": "wax"
+  },
+  {
+    "name": "isohexadecane",
+    "description": "wax"
+  },
+  {
+    "name": "isohexanedecane",
+    "description": "wax"
+  },
+  {
+    "name": "lanolin",
+    "description": "wax"
+  },
+  {
+    "name": "paraffin",
+    "description": "wax"
+  },
+  {
+    "name": "shellac",
+    "description": "wax"
+  },
+  {
+    "name": "wax",
+    "description": "wax"
+  }
+]
