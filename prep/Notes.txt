@@ -6,9 +6,6 @@ Features:
     import image for selecting text
     Search by ingredient 
 
-Color codes: 
-#f7ca28
-
 cloud key:
 7e4b4d1f493c69b1d55669c07785a3b1d81494b4
 
@@ -20,4 +17,78 @@ for deployment todo:
   https://cloud.google.com/vision/docs/authentication#rest
   
 
-
+ingredient list to look for: 
+sulfates-
+  ends with 
+  ate
+  Sodium Laureth 
+  Myreth
+silicones-
+  ends with 
+  cone 
+  xane
+  exceptions(not recommended but can have it)-
+    Behenoxy dimethicone
+    PEG
+    PPG
+    Stearoxy dimethicone
+short chain alcohol:
+  Isopropyl alcohol
+  Isopropanol alcohol
+  Ethanol
+  Ethyl alcohol
+  SD alcohol
+  SD alcohol 40
+  Propanol
+  Propyl alcohol
+  IPA
+long chain alchohol(ok):
+  Behenyl alcohol
+  Cetyl alcohol
+  Cetearyl alcohol
+  Myristly alcohol
+  Stearyl alcohol
+  Lauryl alcohol
+parabens: (ends in paraben)
+  Methylparaben
+  Ethylparaben
+  Propylparaben
+  Isopropylparaben
+  Butylparaben
+  Isobutylparaben
+formaldehyde: 
+  methylene glycol
+  glyoxylic acid
+mineral oils: 
+  Paraffin oil
+  Paraffinum liquidum
+  Petrolatum
+  Petroleum jelly
+soap:
+  potassium hydroxide
+  saponification
+  saponified
+  saponifying
+  soap
+  sodium carboxylate
+  sodium palm
+wax:
+  Lanolin oil
+  Mineral oil
+  Paraffin wax
+  Petrolatum
+  Wax
+  Beeswax
+  Candelilla wax
+  cera
+  cire
+  dodecane
+  dodecene
+  isododecane
+  isohexad
+  isohexadecane
+  isohexanedecane
+  lanolin
+  paraffin
+  shellac
+  wax
