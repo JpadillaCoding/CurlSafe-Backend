@@ -1,234 +1,140 @@
 [
   {
-    "name": "ate",
-    "description": "sulfate"
+    "type":"sulfates",
+    "ingredients":
+    [
+      "alkyl benzene sulfonate",
+      "alkylbenzene sulfonate",
+      "ammonium cocoyl sulfate",
+      "ammonium cocoyl sulphate",
+      "ammonium laureth sulfate",
+      "ammonium laureth sulphate",
+      "ammonium lauryl sulfate",
+      "ammonium lauryl sulphate",
+      "ammonium xylene-sulfonate",
+      "ammonium xylenesulfonate",
+      "ethyl peg-15 cocamine sulfate",
+      "sodium alkyl sulfate",
+      "sodium alkyl sulphate",
+      "sodium c12-18 alkyl sulfate",
+      "sodium c12-18 alkyl sulphate",
+      "sodium cetearyl sulfate",
+      "sodium cetearyl sulphate",
+      "sodium coceth sulfate",
+      "sodium coceth sulphate",
+      "sodium coco sulfate",
+      "sodium coco sulphate",
+      "sodium coco-sulfate",
+      "sodium coco-sulphate",
+      "sodium cocosulfate",
+      "sodium cocosulphate",
+      "sodium laureth sulfate",
+      "sodium laureth sulphate",
+      "sodium laureth-40 sulfate",
+      "sodium laureth-40 sulphate",
+      "sodium lauryl sulfate",
+      "sodium lauryl sulphate",
+      "sodium myreth sulfate",
+      "sodium myreth sulphate",
+      "sodium polystyrene sulfate",
+      "sodium polystyrene sulphate",
+      "sodium xylene-sulfonate",
+      "sodium xylenesulfonate",
+      "tea dodecylbenzenesulfonate",
+      "tea lauryl sulfate",
+      "tea lauryl sulphate",
+      "tea-dodecylbenzenesulfonate",
+      "triethanolamine lauryl sulfate",
+      "triethanolamine lauryl sulphate"
+    ]
   },
   {
-    "name": "sodium-laureth",
-    "description": "sulfate"
+    "type":"silicones",
+    "ingredients":[
+      "amodimethicone",
+      "dimethicone",
+      "dimethiconol",
+      "cyclomethicone",
+      "cyclopentasiloxane",
+      "behenoxy dimethicone",
+      "bis-aminopropyl dimethicone",
+      "cetearyl methicone",
+      "cetyl dimethicone",
+      "phenyl trimethicone",
+      "stearyl dimethicone",
+      "trimethylsilylamodimethicone"
+    ]
   },
   {
-    "name": "myreth",
-    "description": "sulfate"
+    "type":"shortChainAlcohol",
+    "ingredients":[
+      "isopropyl alcohol",
+      "ipa",
+      "denatured alcohol",
+      "denat",
+      "ethanol",
+      "isopropanol",
+      "propanol",
+      "propyl alcohol",
+      "sd alcohol 40"
+    ]
   },
   {
-    "name": "cone",
-    "description": "silicone"
+    "type":"parabens",
+    "ingredients":[
+      "isopropylparaben",
+      "butylparaben",
+      "ethylparaben",
+      "methylparaben",
+      "propylparaben"
+    ]
   },
   {
-    "name": "xane",
-    "description": "silicone"
+    "type":"formaldehydes",
+    "ingredients":[
+      "methylene glycol",
+      "glyoxylic acid"
+    ]
   },
   {
-    "name": "behenoxy dimethicone",
-    "description": "silicones(water-soluble)"
+    "type":"soaps",
+    "ingredients":[
+      "potassium hydroxide",
+      "saponification",
+      "saponified",
+      "saponifying",
+      "soap",
+      "sodium carboxylate",
+      "sodium palm"
+    ]
   },
   {
-    "name": "peg",
-    "description": "silicones(water-soluble)"
+    "type":"wax",
+    "ingredients":[
+      "paraffin wax",
+      "petrolatum",
+      "wax",
+      "beeswax",
+      "candelilla wax",
+      "cera",
+      "cire",
+      "dodecane",
+      "dodecene",
+      "isododecane",
+      "isohexad",
+      "isohexadecane",
+      "isohexanedecane",
+      "lanolin",
+      "paraffin",
+      "shellac",
+      "wax"
+    ]
   },
   {
-    "name": "ppg",
-    "description": "silicones(water-soluble)"
-  },
-  {
-    "name": "stearoxy dimethicone",
-    "description": "silicones(water-soluble)"
-  },
-  {
-    "name": "isopropyl alcohol",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "isopropanol alcohol",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "ethanol",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "ethyl alcohol",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "sd alcohol",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "sd alcohol 40",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "propanol",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "propyl alcohol",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "ipa",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "behenyl alcohol",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "cetyl alcohol",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "cetearyl alcohol",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "myristly alcohol",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "stearyl alcohol",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "lauryl alcohol",
-    "description": "short-chain-alcohol"
-  },
-  {
-    "name": "methylparaben",
-    "description": "parabens"
-  },
-  {
-    "name": "ethylparaben",
-    "description": "parabens"
-  },
-  {
-    "name": "propylparaben",
-    "description": "parabens"
-  },
-  {
-    "name": "isopropylparaben",
-    "description": "parabens"
-  },
-  {
-    "name": "butylparaben",
-    "description": "parabens"
-  },
-  {
-    "name": "isobutylparaben",
-    "description": "parabens"
-  },
-  {
-    "name": "methylene glycol",
-    "description": "formaldehyde"
-  },
-  {
-    "name": "glyoxylic acid",
-    "description": "formaldehyde"
-  },
-  {
-    "name": "potassium hydroxide",
-    "description": "soap"
-  },
-  {
-    "name": "saponification",
-    "description": "soap"
-  },
-  {
-    "name": "saponified",
-    "description": "soap"
-  },
-  {
-    "name": "saponifying",
-    "description": "soap"
-  },
-  {
-    "name": "soap",
-    "description": "soap"
-  },
-  {
-    "name": "sodium carboxylate",
-    "description": "soap"
-  },
-  {
-    "name": "sodium palm",
-    "description": "soap"
-  },
-  {
-    "name": "lanolin oil",
-    "description": "wax"
-  },
-  {
-    "name": "mineral oil",
-    "description": "wax"
-  },
-  {
-    "name": "paraffin wax",
-    "description": "wax"
-  },
-  {
-    "name": "petrolatum",
-    "description": "wax"
-  },
-  {
-    "name": "wax",
-    "description": "wax"
-  },
-  {
-    "name": "beeswax",
-    "description": "wax"
-  },
-  {
-    "name": "candelilla wax",
-    "description": "wax"
-  },
-  {
-    "name": "cera",
-    "description": "wax"
-  },
-  {
-    "name": "cire",
-    "description": "wax"
-  },
-  {
-    "name": "dodecane",
-    "description": "wax"
-  },
-  {
-    "name": "dodecene",
-    "description": "wax"
-  },
-  {
-    "name": "isododecane",
-    "description": "wax"
-  },
-  {
-    "name": "isohexad",
-    "description": "wax"
-  },
-  {
-    "name": "isohexadecane",
-    "description": "wax"
-  },
-  {
-    "name": "isohexanedecane",
-    "description": "wax"
-  },
-  {
-    "name": "lanolin",
-    "description": "wax"
-  },
-  {
-    "name": "paraffin",
-    "description": "wax"
-  },
-  {
-    "name": "shellac",
-    "description": "wax"
-  },
-  {
-    "name": "wax",
-    "description": "wax"
+    "type":"mineralOil",
+    "ingredients":[
+      "lanolin oil",
+      "mineral oil"
+    ]
   }
 ]
