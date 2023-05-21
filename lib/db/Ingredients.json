@@ -45,7 +45,8 @@
       "tea lauryl sulphate",
       "tea-dodecylbenzenesulfonate",
       "triethanolamine lauryl sulfate",
-      "triethanolamine lauryl sulphate"
+      "triethanolamine lauryl sulphate",
+      "myreth"
     ]
   },
   {
@@ -66,17 +67,24 @@
     ]
   },
   {
-    "type":"shortChainAlcohol",
+    "type":"short-chain-alcohol",
     "ingredients":[
       "isopropyl alcohol",
+      "isopropanol alcohol",
       "ipa",
+      "alcohol denat",
+      "ethyl alcohol",
       "denatured alcohol",
       "denat",
       "ethanol",
+      "ethanol alcohol",
       "isopropanol",
       "propanol",
+      "propanol alcohol",
       "propyl alcohol",
-      "sd alcohol 40"
+      "sd alcohol 40",
+      "sd alcohol",
+      "benzyl alcohol"       
     ]
   },
   {
@@ -86,14 +94,21 @@
       "butylparaben",
       "ethylparaben",
       "methylparaben",
-      "propylparaben"
+      "propylparaben",
+      "isobutylparaben"
     ]
   },
   {
     "type":"formaldehydes",
     "ingredients":[
       "methylene glycol",
-      "glyoxylic acid"
+      "glyoxylic acid",
+      "dmdm hydantoinImidazolidinyl urea",
+      "diazolidinyl urea",
+      "quaternium-15",
+      "quaternium 15",
+      "Bronopol (2-bromo-2-nitropropane-1,3-diol )",
+      "hydroxymethylglycinate"
     ]
   },
   {
@@ -113,7 +128,6 @@
     "ingredients":[
       "paraffin wax",
       "petrolatum",
-      "wax",
       "beeswax",
       "candelilla wax",
       "cera",
@@ -131,10 +145,13 @@
     ]
   },
   {
-    "type":"mineralOil",
+    "type":"mineral-oil",
     "ingredients":[
       "lanolin oil",
-      "mineral oil"
+      "mineral oil",
+      "paraffin oil",
+      "paraffinum liquidum",
+      "petroleum jelly"
     ]
   }
 ]
